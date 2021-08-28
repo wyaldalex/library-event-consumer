@@ -13,6 +13,7 @@ spring:
       key-deserializer: org.apache.kafka.common.serialization.IntegerDeserializer
       value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
       spring.kafka.consumer.group-id: groupa
+   
       
 ---            
 spring:

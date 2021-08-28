@@ -8,3 +8,4 @@ import org.springframework.kafka.annotation.EnableKafka;
 public class LibraryEventsConsumerConfig {
 
 }
+
